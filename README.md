@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Bernad Otieno](https://learn.zone01kisumu.ke/git/bernaotieno)
+[Bernad Otieno](https://github.com/bernotieno)
